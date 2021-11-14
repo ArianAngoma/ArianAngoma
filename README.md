@@ -1,5 +1,6 @@
 ## Hola 👋, Soy Arian Angoma!
 <a href='https://www.linkedin.com/in/arian-angoma-vilchez/' target="_blank"><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://arianjs.netlify.app/' target="_blank"><img alt="arianjs" src="https://icon-library.com/images/web-icon-white/web-icon-white-3.jpg" height='18px'/></a>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ArianAngoma/ArianAngoma/main/JS.gif" width="450px"/>
 

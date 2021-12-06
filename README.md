@@ -6,7 +6,7 @@
 
 Me fascina la programación y todo lo relacionado con la web 🌐, me gusta aprender nuevas tecnologías cada día y crear apps para que la gente las use y mejorar su forma de trabajo 💻, me encanta pensar que con una sola aplicación puedo solucionar miles de problemas a miles de personas 🛠️.
 
-Como desarrollador autodidacta 👨🏻, se podría decir que he destacado más en el ámbito backend, trabajando en muchos proyectos privados y públicos ‍💻, lo cual mejoró enormemente mi experiencia y habilidades en general 📝.
+Como desarrollador autodidacta 👨🏻, se podría decir que he destacado más como programador Full Stack, trabajando en muchos proyectos privados y públicos ‍💻, lo cual mejoró enormemente mi experiencia y habilidades en general 📝.
 <br/>
 <br/>
 
